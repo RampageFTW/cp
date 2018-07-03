@@ -45,7 +45,7 @@ var Home = function (_Component) {
     var _this = _possibleConstructorReturn(this, (Home.__proto__ || Object.getPrototypeOf(Home)).call(this));
 
     _this.state = {
-      name: 'Carlos'
+
     };
     return _this;
   }
@@ -140,7 +140,7 @@ var Home = function (_Component) {
     var _this = _possibleConstructorReturn(this, (Home.__proto__ || Object.getPrototypeOf(Home)).call(this));
 
     _this.state = {
-      name: 'Carlos'
+
     };
 
     _this.checkGains = _this.checkGains.bind(_this);
