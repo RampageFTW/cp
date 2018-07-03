@@ -301,7 +301,6 @@ var Layout = function (_Component) {
     var _this = _possibleConstructorReturn(this, (Layout.__proto__ || Object.getPrototypeOf(Layout)).call(this));
 
     _this.state = {
-      name: 'Carlos',
       location: 'home',
       date: (0, _moment2.default)(),
       data: '',
